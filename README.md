@@ -1,7 +1,7 @@
 Guia da comunidade, inspirado no [Repositório de talks do Cocoaheads BH](https://github.com/CocoaheadsBH/talks) para o CocoaHeads Recife
 
 # CocoaHeads Recife
-O intuinto desse diretório é organizar as talks que acontecem no evento. Qualquer pessoa pode submeter sua talk ou se voluntariar para fazer sobre um tema já disponível.
+O intuinto desse diretório é organizar as palestras que acontecem no evento. Qualquer pessoa pode submeter sua palestra ou se voluntariar para fazer sobre um tema já disponível.
 
 ## Como palestrar
 Existem duas formas:
